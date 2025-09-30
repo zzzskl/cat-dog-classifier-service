@@ -1,0 +1,25 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.11.9",
+  "startedAt": "2025-09-30T13:06:47.251286Z",
+  "args": [
+    "app.main:app",
+    "--reload"
+  ],
+  "program": "<python with no main file>",
+  "root": "D:\\study resource\\machine learning\\cat-dog-classifier-service\\cat-dog-classifier-service",
+  "host": "DESKTOP-TNRE3MA",
+  "executable": "C:\\Users\\f\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "885525573632",
+      "used": "867071385600"
+    }
+  },
+  "memory": {
+    "total": "16372080640"
+  },
+  "writerId": "ogehwvwte31wq5wim55u4981jtktfyui"
+}

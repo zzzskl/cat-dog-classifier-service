@@ -1,0 +1,12 @@
+# FastAPI and Server
+fastapi
+uvicorn[standard]
+
+# ML Libraries
+torch
+torchvision
+wandb
+
+# Image Handling
+Pillow
+python-multipart

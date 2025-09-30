@@ -1,0 +1,41 @@
+_wandb:
+    value:
+        cli_version: 0.22.1
+        e:
+            ogehwvwte31wq5wim55u4981jtktfyui:
+                args:
+                    - app.main:app
+                    - --reload
+                cpu_count: 8
+                cpu_count_logical: 16
+                disk:
+                    /:
+                        total: "885525573632"
+                        used: "867071385600"
+                executable: C:\Users\f\AppData\Local\Programs\Python\Python311\python.exe
+                host: DESKTOP-TNRE3MA
+                memory:
+                    total: "16372080640"
+                os: Windows-10-10.0.26100-SP0
+                program: <python with no main file>
+                python: CPython 3.11.9
+                root: D:\study resource\machine learning\cat-dog-classifier-service\cat-dog-classifier-service
+                startedAt: "2025-09-30T13:06:47.251286Z"
+                writerId: ogehwvwte31wq5wim55u4981jtktfyui
+        m: []
+        python_version: 3.11.9
+        t:
+            "1":
+                - 1
+                - 41
+            "2":
+                - 1
+                - 41
+            "3":
+                - 2
+            "4": 3.11.9
+            "5": 0.22.1
+            "8":
+                - 3
+            "12": 0.22.1
+            "13": windows-amd64
